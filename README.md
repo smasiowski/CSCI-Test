@@ -58,3 +58,8 @@ These same basic steps can be followed to update your README.md file and add new
 - Here is a guide for git called [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - Another good resource for git is the Atlassian [site](https://www.atlassian.com/git/tutorials/); Atlassian created bitbucket, an alternative to github, so these tutorials reference bitbucket, but git will be the same **Need better wording here
 - Some extra fun stuff for markdown: [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), [online md editor](https://jbt.github.io/markdown-editor) for those that like visualization
+
+## TO-DO
+* Add info for branches
+* Add info about workflow
+* Add info on pull requests
